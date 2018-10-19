@@ -15,12 +15,12 @@ version 1.0
 		###	Computing Sequence (FASTA) Summary Statistics	###
 
 
-Usage Example:
+Usage example:
 
 	< infoseq sequenceX.fa >
 
 
-Terminal Output:
+Terminal output:
 
 	Input Sequence File
 	Total Length [bps]
